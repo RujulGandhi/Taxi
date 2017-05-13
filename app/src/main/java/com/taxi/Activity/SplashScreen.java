@@ -21,7 +21,7 @@ public class SplashScreen extends BaseActivity {
             @Override
             public void run() {
 
-                startActivity(LoginActivity.class);
+                startActivity(RegisterActivity.class);
 
             }
         }, 3000);

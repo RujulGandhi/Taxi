@@ -9,7 +9,7 @@
     <color name="white">#ffffff</color>
 
     <!--Verify Login Screen-->
-    <color name="textcolor">#722E80</color>
+    <color name="textcolor">#722e80</color>
 
     <color name="edt_border">#95989A</color>
 </resources>

@@ -6,4 +6,14 @@
     <string name="enter_sms_code">Enter SMS Code</string>
     <string name="confirm_code">Confirm Code</string>
     <string name="number_hint">+966</string>
+    <string name="invite_code">Invite code</string>
+    <string name="gender">Gender</string>
+    <string name="register">Register</string>
+    <string name="new_user">New Customer</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
