@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Taxi</string>
+    <string name="str_login">Login</string>
+    <string name="str_mobile_no">Mobile No.</string>
+    <string name="back">Back</string>
+    <string name="enter_sms_code">Enter SMS Code</string>
+    <string name="confirm_code">Confirm Code</string>
+    <string name="number_hint">+966</string>
 </resources>
