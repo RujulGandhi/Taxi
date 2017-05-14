@@ -1,7 +1,5 @@
 package com.taxi.Utils;
 
-import android.content.Context;
-
 import com.google.gson.Gson;
 
 import java.io.BufferedReader;
@@ -327,4 +325,7 @@ public class Utils {
         Gson gson = new Gson();
         return gson.fromJson(strObj, classObject);
     }
+
+
+
 }

@@ -28,6 +28,7 @@ public class OTPActivity extends BaseActivity implements View.OnClickListener {
         super.onStart();
         confirmBtn = (Button) findViewById(R.id.activity_otp_confirm);
         confirmBtn.setOnClickListener(this);
+        //
     }
 
     private void setCursorPostion() {
@@ -41,6 +42,7 @@ public class OTPActivity extends BaseActivity implements View.OnClickListener {
 
                 }
             }
+////// Check Branch
 
             public void beforeTextChanged(CharSequence s, int start, int count,
                                           int after) {
@@ -50,10 +52,7 @@ public class OTPActivity extends BaseActivity implements View.OnClickListener {
             @Override
             public void afterTextChanged(Editable s) {
                 // TODO Auto-generated method stub
-
             }
-
-
         });
 
         ((EditText) findViewById(R.id.edi2)).addTextChangedListener(new TextWatcher() {
